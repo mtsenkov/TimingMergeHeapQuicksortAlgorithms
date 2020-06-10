@@ -9,4 +9,4 @@ Provides with the option to save the sorted names into a .txt files after they h
 * After sorting is done, give names to output files with the results of the sorting and get a clean presentation of the time it took for each algorithm
 
 # Usage
-Driver contains the main method that needs to be ran.
+Driver contains the main method that needs to be run.
